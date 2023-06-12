@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e llo worfor 
+ld \n | cat
