@@ -1,0 +1,5 @@
+#!/bin/bash
+grep -icase 
+ '^[[:alpha:]]' etc/ssh/sshd_config
+
+
