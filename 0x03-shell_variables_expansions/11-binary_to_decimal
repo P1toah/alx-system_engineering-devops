@@ -1,2 +1,2 @@
 #!/bin/bash
-$(echo "ibase=2; obase=10 ; binary number" | bc)
+(i=BINARY-i; 1>0; i--))
